@@ -1,0 +1,18 @@
+	Inicio
+1- Abrir o olho
+2- Levantar da cama
+3- Vá até a porta
+   1- Colocar a mão na fechadura
+   2- Virar a maçaneta 360 graus
+   3- Puxar a porta
+4- Vá até a cozinha
+5- Chegue perto do armario
+6- Abra a porta do armario
+7- Pegue a caneca
+8- Pegue a cafeteira encima do armario
+9- Coloque o café
+10- Volte para o quarto
+11- Ligue o pc
+12- Sente na cadeira
+13- Se divirta
+	Fim
