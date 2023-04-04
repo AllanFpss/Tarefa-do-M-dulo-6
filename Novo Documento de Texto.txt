@@ -1,4 +1,5 @@
-Inicio
+INICIO
+
 1- Abrir o olho
 2- Levantar da cama
 3- Vá até a porta
@@ -15,4 +16,5 @@ Inicio
 11- Ligue o pc
 12- Sente na cadeira
 13- Se divirta
-Fim
+
+FIM
